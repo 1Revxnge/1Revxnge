@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 <div>
 <a href="https://github.com/1Revxnge">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Revxnge-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=1Revxnge-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 - 🌱 I’m currently learning ...<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/allison-lima-624972212/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <div class="tenor-gif-embed" data-postid="16730883" data-share-method="host" data-aspect-ratio="1.0596" data-width="100%"><a href="https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-16730883">Hacker Pc GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-![Snake animation](https://github.com/1Revxnge/1Revxnge/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
