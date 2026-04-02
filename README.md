@@ -11,10 +11,8 @@
 
 Atualmente focado em desenvolvimento Backend e análise de dados, transitando entre ecossistemas robustos e soluções escaláveis.
 
-- 🔭 **Atualmente trabalhando em:** Integração com base de dados dos Correios (DNE) e fluxos de sistemas de cobrança.
 - 🎓 **Projetos Recentes:** Análise de rentabilidade e-commerce (Olist) utilizando Python e Google Colab.
 - 🌱 **Aprimorando conhecimentos em:** TypeScript, Java (Spring Boot) e infraestrutura (SSL/Apache).
-- ⚽ **Paixões:** Futebol (Vasco, Palmeiras e Barça) e o universo de Resident Evil.
 - ⚡ **Fun fact:** O "I hate Java" no meu antigo README era brincadeira... ou talvez um teste de paciência, já que hoje ele faz parte do meu stack! 😉
 
 ---
